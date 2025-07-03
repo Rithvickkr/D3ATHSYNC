@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/Node.js-v16+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
+![Uploading D3ATHSYNC Logo Design.png…]()
+
 
 Welcome to **D3ATHSYNC**, a heart-pounding augmented reality (AR) deathmatch game that turns your environment into a high-stakes battlefield! Powered by cutting-edge web tech, this two-player, real-time shooter leverages PoseNet for body tracking and WebGL for immersive AR visuals. Lock horns with an opponent in a relentless duel where precision, strategy, and lightning-fast reflexes crown the champion.
 
