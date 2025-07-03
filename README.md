@@ -42,7 +42,7 @@ Set up and deploy D3ATHSYNC locally or on a server to unleash the chaos.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/d3athsync.git
+   git clone https://github.com/Rithvickkr/d3athsync.git
    cd d3athsync
    ```
 
